@@ -1,0 +1,10 @@
+<suite thread-count="1" verbose="1" name="E-commerce portal createAccount">
+
+    <test name="E-commerce portal Login">
+        <classes>
+            <class name="LoginTest_Runner"/>
+        </classes>
+    </test>
+
+
+</suite>
